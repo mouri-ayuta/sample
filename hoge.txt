@@ -1,6 +1,2 @@
 hoge
-<<<<<<< HEAD
-fuga5
-=======
-fuga3
->>>>>>> e97703505141415e365bdf3a5e274e51ea6ee865
+fuga6
